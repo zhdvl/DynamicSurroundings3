@@ -1,0 +1,13 @@
+{
+  "package": "org.orecruncher.dsurround.mixins",
+  "required": true,
+  "refmap": "mixins.dsurround.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MixinParticleManager"
+  ]
+}

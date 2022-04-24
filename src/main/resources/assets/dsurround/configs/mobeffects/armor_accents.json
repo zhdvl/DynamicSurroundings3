@@ -1,0 +1,66 @@
+{
+  "SHIELD": [
+    "net.minecraft.world.item.ShieldItem"
+  ],
+  "LEATHER": [
+    "minecraft:leather_boots",
+    "minecraft:leather_leggings",
+    "minecraft:leather_chestplate",
+    "minecraft:leather_helmet"
+  ],
+  "CHAIN": [
+    "minecraft:chainmail_boots",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_helmet"
+  ],
+  "CRYSTAL": [
+    "minecraft:diamond_boots",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_helmet"
+  ],
+  "PLATE": [
+    "minecraft:iron_boots",
+    "minecraft:iron_leggings",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_helmet",
+    "minecraft:golden_boots",
+    "minecraft:golden_leggings",
+    "minecraft:golden_chestplate",
+    "minecraft:golden_helmet"
+  ],
+  "NETHERITE": [
+    "minecraft:netherite_boots",
+    "minecraft:netherite_leggings",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_helmet"
+  ],
+  "AXE": [
+    "net.minecraft.world.item.AxeItem",
+    "net.minecraft.world.item.PickaxeItem"
+  ],
+  "BOW": [
+    "net.minecraft.world.item.BowItem"
+  ],
+  "CROSSBOW": [
+    "net.minecraft.world.item.CrossbowItem"
+  ],
+  "SWORD": [
+    "net.minecraft.world.item.SwordItem"
+  ],
+  "TOOL": [
+    "net.minecraft.world.item.ShovelItem",
+    "net.minecraft.world.item.HoeItem",
+    "net.minecraft.world.item.FishingRodItem"
+  ],
+  "BOOK": [
+    "net.minecraft.world.item.BookItem",
+    "net.minecraft.world.item.WritableBookItem",
+    "net.minecraft.world.item.WrittenBookItem",
+    "net.minecraft.world.item.EnchantedBookItem"
+  ],
+  "POTION": [
+    "net.minecraft.world.item.PotionItem"
+  ]
+}
